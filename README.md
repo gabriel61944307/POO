@@ -5,9 +5,8 @@ Este repositório contém o códigos referentes a disciplina de Programação de
 <p>A atividade T1 consiste em implementar em C++ as classes conforme descritas abaixo:</p>
 1 - Defina a classeAlunocujos objetos representam alunos matriculados em uma disciplina.Cada objeto dessa classe deve guardar os seguintes dados do aluno:RA,nome,nota da1aprova,nota  da2aprovaenota  do  trabalho. Os atributos da classe devem serprivados. Escreva osseguintes métodos/construtores para esta classe:
 <table border="1"><tr><td>Nome</td><td>Descrição</td></tr>
-<tr>p{
-    font-size:20px;
-<td>Aluno(int, string, double, double, double)</td><td>Construtor capaz de setar os atributos do objeto. Esse construtor deve ser único.</td>}</tr></table>
+<tr><p style="font-size: 18px;>
+<td>Aluno(int, string, double, double, double)</td><td>Construtor capaz de setar os atributos do objeto. Esse construtor deve ser único.</td></p></tr></table>
 
 
 
